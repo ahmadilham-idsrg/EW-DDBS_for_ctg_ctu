@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article."
+title: "Class-imbalance correction in cardiotocographic decision support: code and artefacts"
+authors:
+  # TODO: replace with the full author list, including ORCID identifiers.
+  - family-names: Ilham
+    given-names: Ahmad
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+license: MIT
+repository-code: "https://github.com/USER/REPO"   # TODO
+preferred-citation:
+  type: article
+  title: "Class-Imbalance Correction in Cardiotocographic Decision Support: A Two-Cohort Evaluation with Feature-Ordering and Determinism Controls"
+  authors:
+    - family-names: Ilham
+      given-names: Ahmad
+  journal: "Health Information Science and Systems"
+  year: 2026          # TODO: update on acceptance
+  doi: "10.0000/000000"   # TODO
